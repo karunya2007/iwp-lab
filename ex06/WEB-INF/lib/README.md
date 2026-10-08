@@ -1,0 +1,1 @@
+The PDF lists these JSTL dependencies: jakarta.servlet.jsp.jstl-3.0.1.jar and jakarta.servlet.jsp.jstl-api-3.0.0.jar. Add the corresponding JARs to this folder when deploying to a servlet container; binary JARs are intentionally not bundled here.
